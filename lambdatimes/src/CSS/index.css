@@ -120,6 +120,10 @@ body {
 .top-bar .container .container-right span {
   cursor: pointer;
 }
+
+.login {
+  /* display: none; */
+}
 .header {
   display: flex;
   justify-content: space-between;
